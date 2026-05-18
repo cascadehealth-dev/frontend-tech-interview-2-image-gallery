@@ -4,6 +4,8 @@ Welcome! This exercise is part of the technical interview process for the **Fron
 
 This is a **practical, time-boxed exercise** — not a trick question marathon. We want to see how you break down requirements, organize code, and make reasonable decisions under realistic constraints. Don't worry about pixel-perfect styling — focus on structure, correctness, and clarity.
 
+**Important:** No AI coding tools (Copilot, Claude, ChatGPT, etc.) during this exercise. We want to see how you write and structure code on your own.
+
 ## Quick Start
 
 ### Docker (Recommended)
