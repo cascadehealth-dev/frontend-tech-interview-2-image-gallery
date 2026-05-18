@@ -80,7 +80,7 @@ Build an Image Gallery with the following features. Read through all requirement
 
 ## Tech Stack
 
-- React 18 + TypeScript (strict mode)
+- React 18 + JavaScript
 - Vite
 - SCSS is available (sass is installed) — or use inline styles, your choice
 
