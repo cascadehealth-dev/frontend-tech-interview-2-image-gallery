@@ -8,6 +8,14 @@ The candidate builds an image gallery uploader from a bare Vite + React scaffold
 
 This exercise tests: component organization, state management, async patterns (upload progress, cancellation, optimistic updates), URL state management, error handling, and prioritization under time pressure.
 
+## AI Tool Policy
+
+**No AI tools are allowed during Tech 2.** This includes Copilot, Claude, ChatGPT, and any other code generation tools. The README states this explicitly. Remind the candidate at the start of the exercise: *"No AI coding tools for this interview — we want to see how you write and structure code on your own."*
+
+**Why no AI for Tech 2:** Tech 1 allows AI to assess how candidates collaborate with AI tools. Tech 2 removes AI to assess raw coding ability — can they organize a project from scratch, manage state, handle async patterns, and prioritize under time pressure without assistance? The contrast between the two rounds gives signal on both dimensions.
+
+**What to observe if they appear to use AI:** If you suspect AI usage (e.g., unusually fast boilerplate output, code appearing in large blocks), note it but don't interrupt. Probe during the discussion: *"Walk me through how you structured this component — what was your thought process?"* AI-generated code without understanding will be obvious in the follow-up.
+
 ## What to Watch For
 
 ### Organization (first 5-10 minutes are most telling)
