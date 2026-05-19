@@ -6,9 +6,19 @@ This is a **practical, time-boxed exercise** — not a trick question marathon. 
 
 **Important:** No AI coding tools (Copilot, Claude, ChatGPT, etc.) during this exercise. We want to see how you write and structure code on your own.
 
-## Quick Start
+## Getting Started
 
-### Docker (Recommended)
+Your interviewer will share a setup link. Choose the option that works best for you.
+
+### Option A: GitHub Codespaces (recommended — zero setup)
+
+Click the Codespace link your interviewer shares. The environment opens in your browser with everything pre-configured — mock API running, dependencies installed, dev server ready. You can also open the Codespace in your local VS Code if you prefer your own editor setup.
+
+The app will be available at the forwarded port for `5173` and the mock API at `3001`.
+
+### Option B: Local setup with Docker
+
+If you prefer working fully locally, your interviewer can provide a zip file. A `Dockerfile` and `docker-compose.yml` are included.
 
 ```bash
 docker compose up -d --build
@@ -17,7 +27,7 @@ docker compose exec app bash
 
 The app will be available at `http://localhost:5173` and the mock API at `http://localhost:3001`.
 
-### Local Setup
+### Option C: Manual local setup
 
 Requires Node 20+.
 
